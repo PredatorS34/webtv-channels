@@ -1,27 +1,22 @@
 [
-  {"name":"TRT 1","url":"https://tv-trt1.live.trt.com.tr/master.m3u8","category":"Ulusal"},
-  {"name":"TRT 2","url":"https://tv-trt2.live.trt.com.tr/master.m3u8","category":"Ulusal"},
-  {"name":"TRT Haber","url":"https://tv-trthaber.live.trt.com.tr/master.m3u8","category":"Haber"},
-  {"name":"TRT Spor","url":"https://tv-trtspor1.live.trt.com.tr/master.m3u8","category":"Spor"},
-  {"name":"TRT Spor 2","url":"https://tv-trtspor2.live.trt.com.tr/master.m3u8","category":"Spor"},
-  {"name":"TRT Belgesel","url":"https://tv-trtbelgesel.live.trt.com.tr/master.m3u8","category":"Belgesel"},
-  {"name":"TRT Çocuk","url":"https://tv-trtcocuk.live.trt.com.tr/master.m3u8","category":"Çocuk"},
-  {"name":"TRT Müzik","url":"https://tv-trtmuzik.live.trt.com.tr/master.m3u8","category":"Müzik"},
-  {"name":"TRT Türk","url":"https://tv-trtturk.live.trt.com.tr/master.m3u8","category":"Ulusal"},
-  {"name":"TRT World","url":"https://tv-trtworld.live.trt.com.tr/master.m3u8","category":"Haber"},
-  {"name":"TRT Avaz","url":"https://tv-trtavaz.live.trt.com.tr/master.m3u8","category":"Ulusal"},
-  {"name":"TRT Kurdi","url":"https://tv-trtkurdi.live.trt.com.tr/master.m3u8","category":"Ulusal"},
-
-  {"name":"A Haber","url":"https://trkvz-live.daioncdn.net/ahaber/ahaber.m3u8","category":"Haber"},
+  {"name":"TRT 1","url":"https://tv-trt1.medya.trt.com.tr/master_1080.m3u8","category":"Ulusal"},
+  {"name":"TRT Haber","url":"https://tv-trthaber.medya.trt.com.tr/master.m3u8","category":"Haber"},
+  {"name":"TRT Belgesel","url":"https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8","category":"Belgesel"},
+  {"name":"TRT Çocuk","url":"https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8","category":"Çocuk"},
+  {"name":"TRT Müzik","url":"https://tv-trtmuzik.medya.trt.com.tr/master.m3u8","category":"Müzik"},
+  {"name":"TRT Avaz","url":"https://tv-trtavaz.medya.trt.com.tr/master.m3u8","category":"Ulusal"},
+  {"name":"TRT Türk","url":"https://tv-trtturk.medya.trt.com.tr/master.m3u8","category":"Ulusal"},
+  {"name":"TRT Spor","url":"https://tv-trtspor1.medya.trt.com.tr/master.m3u8","category":"Spor"},
+  {"name":"TRT Spor Yıldız","url":"https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8","category":"Spor"},
   {"name":"ATV","url":"https://trkvz-live.daioncdn.net/atv/atv.m3u8","category":"Ulusal"},
-
-  {"name":"TVNET","url":"https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8","category":"Haber"},
-  {"name":"24 TV","url":"https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8","category":"Haber"},
-  {"name":"Ülke TV","url":"https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8","category":"Haber"},
-
-  {"name":"DMAX","url":"https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8","category":"Belgesel"},
-
-  {"name":"TRT EBA İlkokul","url":"https://tv-e-okul00.live.trt.com.tr/master.m3u8","category":"Eğitim"},
-  {"name":"TRT EBA Ortaokul","url":"https://tv-e-okul01.live.trt.com.tr/master.m3u8","category":"Eğitim"},
-  {"name":"TRT EBA Lise","url":"https://tv-e-okul02.live.trt.com.tr/master.m3u8","category":"Eğitim"}
+  {"name":"A Haber","url":"https://trkvz-live.daioncdn.net/ahaber/ahaber.m3u8","category":"Haber"},
+  {"name":"TV360","url":"https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8","category":"Ulusal"},
+  {"name":"Kanal 24","url":"https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8","category":"Haber"},
+  {"name":"Habertürk","url":"https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8","category":"Haber"},
+  {"name":"TGRT Haber","url":"https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8","category":"Haber"},
+  {"name":"Halk TV","url":"https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8","category":"Haber"},
+  {"name":"Minika Çocuk","url":"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8","category":"Çocuk"},
+  {"name":"Minika GO","url":"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8","category":"Çocuk"},
+  {"name":"Dream Türk","url":"https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/playlist.m3u8","category":"Müzik"},
+  {"name":"Power HD","url":"https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/playlist.m3u8","category":"Müzik"}
 ]
